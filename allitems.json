@@ -147,7 +147,7 @@
         },
         {
             "id": "000000000692",
-            "class": "BUREAU / ビューロー",
+            "class": "BUREAU/ビューロー",
             "title": "BureauBUREAU / ビューロー",
             "size": "W:880 D:420 H:1080",
             "price": "170000",
@@ -171,7 +171,7 @@
         },
         {
             "id": "000000000810",
-            "class": "CHAIR / 椅子",
+            "class": "CHAIR/椅子",
             "title": "【3脚セット】Bar Stool",
             "size": "W:365 D:365 H:790",
             "price": "186000",
@@ -195,7 +195,7 @@
         },
         {
             "id": "000000000843",
-            "class": "CHAIR / 椅子",
+            "class": "CHAIR/椅子",
             "title": "Grand Prix Chair by Arne Jacobsen",
             "size": "W:490 D:500 H:785 (SH:440)",
             "price": "255000",
@@ -231,7 +231,7 @@
         },
         {
             "id": "000000000861",
-            "class": "CHAIR / 椅子",
+            "class": "CHAIR/椅子",
             "title": "Arm Chair",
             "size": "W:650 D:720 H:800 (SH 410)",
             "price": "444000",
