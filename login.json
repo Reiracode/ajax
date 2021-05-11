@@ -1,0 +1,6 @@
+{
+ IsLogin: true;
+LoginMessage: "登入成功，將回到商品列表頁面";
+method: "POST";
+userno: "000002";
+}
